@@ -54,3 +54,54 @@ Questo sito raggruppa in una tabella ben strutturata per facilitare la ricerca d
 [Archivio completo](https://drive.google.com/drive/folders/1kltAVj_O868eIC7zoa8gg6nIJ7SfEd78?usp=sharing).
 -->
 
+
+
+<style>
+  }
+table {
+  display: block;
+}
+tr,td,tbody, tfoot {
+  display: block;
+}
+thead {
+  display: none;
+}
+tr {
+  padding-bottom: 10px;
+}
+td {
+  padding: 10px 10px 0;
+  text-align: center;
+  &:before {
+    content: attr(data-title);
+    color: lighten($rain,35%);
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    padding-right: 10px;
+    display: block;
+  }
+}
+table {
+  width: 100%;
+}
+
+th {
+  text-align: left;
+  font-weight: 700;
+}
+thead {
+  th {
+    background-color: darken($rain,6%);
+    color: #fff;
+    border: 1px solid darken($rain,6%);
+  }
+}
+tfoot {
+  th {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color: lighten($rain,55%);
+  }
+  </style>
