@@ -1,16 +1,3 @@
-  }
-table {
-  display: block;
-}
-tr,td,tbody, tfoot {
-  display: block;
-}
-thead {
-  display: none;
-}
-tr {
-  padding-bottom: 10px;
-}
 td {
   padding: 10px 10px 0;
   text-align: center;
@@ -22,15 +9,7 @@ td {
     padding-right: 10px;
     display: block;
   }
-}
-table {
-  width: 100%;
-}
 
-th {
-  text-align: left;
-  font-weight: 700;
-}
 thead {
   th {
     background-color: darken($rain,6%);
