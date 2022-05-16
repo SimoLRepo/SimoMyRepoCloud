@@ -12,11 +12,11 @@ Questo sito raggruppa in una tabella ben strutturata per facilitare la ricerca d
 | Nome applicazione  | Descrizione | Traccianti / Pubblicità | Funzioni a pagamento | Closed Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [DS Photo Editor](https://play.google.com/store/apps/details?id=com.dsphotoeditor.demoapp)  | Editor fotografico  |
-| [Photo Editor](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor)  | Editor fotografico avanzato  | Si | Si | | Si |
+| [Photo Editor](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor)  | Editor fotografico avanzato  | Si | Si | Si |
 | [Easy Media Converter](https://play.google.com/store/apps/details?id=com.digipom.easymediaconverter)  | Convertitore multimediale  |
 | [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) | Browser basato su Chromium |
-| [Symptomate](https://play.google.com/store/apps/details?id=com.symptomate.mobile) | Diagnosi medica autonoma |  |  | | Si |
-| [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx) | File manager |  |  | Si | Si |
+| [Symptomate](https://play.google.com/store/apps/details?id=com.symptomate.mobile) | Diagnosi medica autonoma |  | | Si |
+| [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx) | File manager |  | Si | Si |
 
 <br>
 
