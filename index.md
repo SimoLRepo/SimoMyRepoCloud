@@ -9,8 +9,8 @@ Questo sito raggruppa in una tabella ben strutturata per facilitare la ricerca d
 
 ### App presenti sul Play Store
 
-| Nome applicazione  | Descrizione | Traccianti / Pubblicità | Funzioni extra a pagamento | Closed Source |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Nome applicazione  | Descrizione | Traccianti / Pubblicità | Funzioni a pagamento | Closed Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | [DS Photo Editor](https://play.google.com/store/apps/details?id=com.dsphotoeditor.demoapp)  | Editor fotografico  |
 | [Photo Editor](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor)  | Editor fotografico avanzato  | Si | Si | | Si |
 | [Easy Media Converter](https://play.google.com/store/apps/details?id=com.digipom.easymediaconverter)  | Convertitore multimediale  |
