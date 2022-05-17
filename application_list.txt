@@ -1,0 +1,32 @@
+DS Photo Editor
+https://play.google.com/store/apps/details?id=com.dsphotoeditor.demoapp
+
+Photo Editor
+https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor
+
+Easy Media Converter
+https://play.google.com/store/apps/details?id=com.digipom.easymediaconverter
+
+Kiwi Browser
+https://play.google.com/store/apps/details?id=com.kiwibrowser.browser
+
+Symptomate
+https://play.google.com/store/apps/details?id=com.symptomate.mobile
+
+FX File Explorer
+https://play.google.com/store/apps/details?id=nextapp.fx
+
+F-Droid
+https://f-droid.org/it/
+
+IzzyOnDroid
+https://apt.izzysoft.de/fdroid/
+
+Foxy Droid
+https://f-droid.org/en/packages/nya.kitsunyan.foxydroid/
+
+Aurora Droid
+https://f-droid.org/en/packages/com.aurora.adroid/
+
+Aurora Store
+https://f-droid.org/en/packages/com.aurora.store/
